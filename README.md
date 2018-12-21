@@ -1,2 +1,0 @@
-# glgw-pay
-ganglaigangwang
